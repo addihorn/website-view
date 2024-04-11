@@ -1,0 +1,888 @@
+strict digraph {
+
+
+	"https://www.proficom.de/en/portfolio/lifecycle-management-integration" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/lifecycle-management-integration", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.linkedin.com/company/proficomag" [ URL="?remoteUrl=https://www.linkedin.com/company/proficomag", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/kuenstliche-intelligenz/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/kuenstliche-intelligenz/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/team/tom-lange" [ URL="?remoteUrl=https://www.proficom.de/team/tom-lange", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/testen/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/testen/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/trainings/public-cloud" [ URL="?remoteUrl=https://www.proficom.de/portfolio/trainings/public-cloud", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de" [ URL="?remoteUrl=https://www.proficom.de", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/software-support" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/suche" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/impressum" [  weight=0 ];
+
+	"https://www.proficom.de" -> "javascript:linkTo_UnCryptMailto('ohssvGwyvmpjvt5kl', -7)" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/trainings" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere/jobs/bewerbungs-faq" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/en" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/application-performance-management" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/test-automation" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/unternehmen/brand-kit" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/unternehmen" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/unternehmen/team" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/unternehmen/geschichte" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.instagram.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/lifecycle-management-integration" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/webinare" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/application-security" [  weight=0 ];
+
+	"https://www.proficom.de" -> "tel:+49 (0) 351 440080" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/blog" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/erfolgsfaktoren" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/agile-coaching" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/media-library" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede/" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.linkedin.com/company/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/unternehmen/referenzen" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/unternehmen/partner" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/datenschutz" [  weight=0 ];
+
+	"https://www.proficom.de" -> "javascript:linkTo_UnCryptMailto('qjuuxIyaxorlxv7mn', -9)" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.youtube.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere/darum-proficom" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/agb" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere/it-traineeprogramm" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/container" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere/darum-proficom/leben-in-dresden" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere/darum-proficom/benefits" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/karriere/jobs" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" [  weight=0 ];
+
+	"https://www.proficom.de" -> "https://www.proficom.de/portfolio/infrastructure-cloud-management" [  weight=0 ];
+
+	"https://www.proficom.de/en/blog" [ URL="?remoteUrl=https://www.proficom.de/en/blog", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" [ URL="?remoteUrl=https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.linkedin.com/company/proficomag" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "javascript:linkTo_UnCryptMailto('exiilWmolcfzlj5ab', -23)" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "http://ct.de/-2467514" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/agile-coaching" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.instagram.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/en/site-export" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere/it-traineeprogramm" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/lifecycle-management-integration" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/agb" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/blog/tag/application-performance-management/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/unternehmen/partner" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/blog/tag/dynatrace/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/blog" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/blog/author/43c2e64a/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/infrastructure-cloud-management" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.linkedin.com/company/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/application-security" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere/darum-proficom" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/unternehmen/referenzen" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F&subject=Wir%20sind%20offizieller%20dynatrace-Partner%21" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/unternehmen" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "tel:+49 (0) 351 440080" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/unternehmen/brand-kit" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F&title=Wir%20sind%20offizieller%20dynatrace-Partner%21" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/software-support" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/site-export" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/application-performance-management" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/impressum" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere/jobs" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.xing.com/pages/proficomag" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/test-automation" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/erfolgsfaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere/jobs/bewerbungs-faq" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere/darum-proficom/leben-in-dresden" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/suche" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/webinare" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/blog/category/portfolio/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere/darum-proficom/benefits" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/blog//app/uploads/2022/09/Teaser_dynatrace-scaled.jpg" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/trainings" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/karriere" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/unternehmen/geschichte" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/unternehmen/team" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F%20Wir%20sind%20offizieller%20dynatrace-Partner%21" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/media-library" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.youtube.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/team/proficom" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "javascript:linkTo_UnCryptMailto('mfqqtEuwtknhtr3ij', -5)" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/portfolio/container" [  weight=0 ];
+
+	"https://www.proficom.de/blog/wir-sind-offiziell-dynatrace-partner/" -> "https://www.proficom.de/datenschutz" [  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('ohssvGwyvmpjvt5kl', -7)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('ohssvGwyvmpjvt5kl', -7)", fillcolor="red", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/media-library" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/media-library", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/author/6bea04fb/" [ URL="?remoteUrl=https://www.proficom.de/blog/author/6bea04fb/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/events" [ URL="?remoteUrl=https://www.proficom.de/blog/events", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede" [ URL="?remoteUrl=https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/webinars" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/webinars", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/application-performance-management" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/application-performance-management", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog//app/uploads/2022/09/Teaser_dynatrace-scaled.jpg" [ URL="?remoteUrl=https://www.proficom.de/blog//app/uploads/2022/09/Teaser_dynatrace-scaled.jpg", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/trainings/angebot/ansible-basics-1-1" [ URL="?remoteUrl=https://www.proficom.de/portfolio/trainings/angebot/ansible-basics-1-1", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-qualitaetsmerkmale-im-fokus/" [ URL="?remoteUrl=https://www.proficom.de/blog/testen-von-ki-qualitaetsmerkmale-im-fokus/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/unternehmen/partner" [ URL="?remoteUrl=https://www.proficom.de/unternehmen/partner", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en" [ URL="?remoteUrl=https://www.proficom.de/en", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/success-factors" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.linkedin.com/company/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/software-support" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/trainings" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "tel:+49 (0) 351 440080" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/company" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/media-library" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/container" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "javascript:linkTo_UnCryptMailto('tmxxaLbdaruoay:pq', -12)" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/blog" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.instagram.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/privacy-policy" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/application-security" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/test-automation" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/suche" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/webinars" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/career" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/company/references" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/company/partners" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/company/history" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.youtube.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/lifecycle-management-integration" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "javascript:linkTo_UnCryptMailto('wpaadOegduxrdb-st', -15)" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/blog/events" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/imprint" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/application-performance-management" [  weight=0 ];
+
+	"https://www.proficom.de/en" -> "https://www.proficom.de/en/portfolio/infrastructure-cloud-management" [  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('halloZproficom8de', -26)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('halloZproficom8de', -26)", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('qjuuxIyaxorlxv7mn', -9)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('qjuuxIyaxorlxv7mn', -9)", fillcolor="red", style="filled",  weight=0 ];
+
+	"https://www.linkedin.com/in/michael-l%C3%B6tzsch-a382a0149/" [ URL="?remoteUrl=https://www.linkedin.com/in/michael-l%C3%B6tzsch-a382a0149/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud/weg-in-die-cloud" [ URL="?remoteUrl=https://www.proficom.de/portfolio/public-cloud/weg-in-die-cloud", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/impressum" [ URL="?remoteUrl=https://www.proficom.de/impressum", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/" [ URL="?remoteUrl=https://www.proficom.de/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/team/franz-nolasco" [ URL="?remoteUrl=https://www.proficom.de/team/franz-nolasco", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud/cloud-automation" [ URL="?remoteUrl=https://www.proficom.de/portfolio/public-cloud/cloud-automation", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('mfqqtEuwtknhtr3ij', -5)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('mfqqtEuwtknhtr3ij', -5)", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-ein-tiefer-einblick/" [ URL="?remoteUrl=https://www.proficom.de/blog/testen-von-ki-ein-tiefer-einblick/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/company/references" [ URL="?remoteUrl=https://www.proficom.de/en/company/references", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.xing.com/profile/Michael_Loetzsch2/cv" [ URL="?remoteUrl=https://www.xing.com/profile/Michael_Loetzsch2/cv", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog" [ URL="?remoteUrl=https://www.proficom.de/blog", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/test-automation" [ URL="?remoteUrl=https://www.proficom.de/portfolio/test-automation", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.xing.com/pages/proficomag" [ URL="?remoteUrl=https://www.xing.com/pages/proficomag", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.instagram.com/proficomde" [ URL="?remoteUrl=https://www.instagram.com/proficomde", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F&title=Testen%20von%20KI%3A%20Risikofaktoren" [ URL="?remoteUrl=https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F&title=Testen%20von%20KI%3A%20Risikofaktoren", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F%20Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis" [ URL="?remoteUrl=https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F%20Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede/" [ URL="?remoteUrl=https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/unternehmen/team" [ URL="?remoteUrl=https://www.proficom.de/unternehmen/team", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.wired.com/story/chatgpt-poem-forever-security-roundup/" [ URL="?remoteUrl=https://www.wired.com/story/chatgpt-poem-forever-security-roundup/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere/darum-proficom" [ URL="?remoteUrl=https://www.proficom.de/karriere/darum-proficom", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F%20Wir%20sind%20offizieller%20dynatrace-Partner%21" [ URL="?remoteUrl=https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F%20Wir%20sind%20offizieller%20dynatrace-Partner%21", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/so-entsteht-eine-proficom-webinarserie/" [ URL="?remoteUrl=https://www.proficom.de/blog/so-entsteht-eine-proficom-webinarserie/", fillcolor="green", style="filled",  weight=0 ];
+
+	"tel:+49 (0) 351 440080" [ URL="?remoteUrl=tel:+49 (0) 351 440080", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/company" [ URL="?remoteUrl=https://www.proficom.de/en/company", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/career" [ URL="?remoteUrl=https://www.proficom.de/en/career", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F" [ URL="?remoteUrl=https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere/jobs/bewerbungs-faq" [ URL="?remoteUrl=https://www.proficom.de/karriere/jobs/bewerbungs-faq", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/privacy-policy" [ URL="?remoteUrl=https://www.proficom.de/en/privacy-policy", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.linkedin.com/company/proficomde" [ URL="?remoteUrl=https://www.linkedin.com/company/proficomde", fillcolor="green", style="filled",  weight=0 ];
+
+	"mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F&subject=Wir%20sind%20offizieller%20dynatrace-Partner%21" [ URL="?remoteUrl=mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F&subject=Wir%20sind%20offizieller%20dynatrace-Partner%21", fillcolor="red", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/trainings" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/trainings", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog//app/uploads/2024/01/202402_Selenium-Grid-3-auf-4_fnolasco_part2.jpg" [ URL="?remoteUrl=https://www.proficom.de/blog//app/uploads/2024/01/202402_Selenium-Grid-3-auf-4_fnolasco_part2.jpg", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F" [ URL="?remoteUrl=https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/unternehmen/geschichte" [ URL="?remoteUrl=https://www.proficom.de/unternehmen/geschichte", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/container" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/container", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/category/portfolio/" [ URL="?remoteUrl=https://www.proficom.de/blog/category/portfolio/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud/cloud-security" [ URL="?remoteUrl=https://www.proficom.de/portfolio/public-cloud/cloud-security", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/automatisierung-und-application-monitoring-wir-waren-beim-accompio-it-expert-day/" [ URL="?remoteUrl=https://www.proficom.de/blog/automatisierung-und-application-monitoring-wir-waren-beim-accompio-it-expert-day/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.youtube.com/proficomde" [ URL="?remoteUrl=https://www.youtube.com/proficomde", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/author/43c2e64a/" [ URL="?remoteUrl=https://www.proficom.de/blog/author/43c2e64a/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/success-factors" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/success-factors", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/team/proficom" [ URL="?remoteUrl=https://www.proficom.de/team/proficom", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/site-export" [ URL="?remoteUrl=https://www.proficom.de/en/site-export", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/company/history" [ URL="?remoteUrl=https://www.proficom.de/en/company/history", fillcolor="green", style="filled",  weight=0 ];
+
+	"mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F&subject=Testen%20von%20KI%3A%20Risikofaktoren" [ URL="?remoteUrl=mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F&subject=Testen%20von%20KI%3A%20Risikofaktoren", fillcolor="red", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/container" [ URL="?remoteUrl=https://www.proficom.de/portfolio/container", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('wpaadOegduxrdb-st', -15)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('wpaadOegduxrdb-st', -15)", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('gzkknYoqnehbnl7cd', -25)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('gzkknYoqnehbnl7cd', -25)", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/dynatrace/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/dynatrace/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/suche" [ URL="?remoteUrl=https://www.proficom.de/en/suche", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F%20Testen%20von%20KI%3A%20Risikofaktoren" [ URL="?remoteUrl=https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F%20Testen%20von%20KI%3A%20Risikofaktoren", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/application-performance-management" [ URL="?remoteUrl=https://www.proficom.de/portfolio/application-performance-management", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere/darum-proficom/benefits" [ URL="?remoteUrl=https://www.proficom.de/karriere/darum-proficom/benefits", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/testen-von-ki" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/testen-von-ki", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('exiilWmolcfzlj5ab', -23)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('exiilWmolcfzlj5ab', -23)", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" [ URL="?remoteUrl=https://www.proficom.de/blog/testen-von-ki-risikofaktoren/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/unternehmen/brand-kit" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere/jobs/bewerbungs-faq" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/erfolgsfaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.linkedin.com/company/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/unternehmen/geschichte" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/en/site-export" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/media-library" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/tag/testen-von-ki/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/container" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/testen-von-ki-ein-tiefer-einblick/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/suche" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.istqb.org/certifications/artificial-inteligence-tester" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.youtube.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F&title=Testen%20von%20KI%3A%20Risikofaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/testen-von-ki-qualitaetsmerkmale-im-fokus/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/author/6bea04fb/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere/jobs" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/unternehmen/team" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/team/tom-lange" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/trainings" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/application-security" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/unternehmen/partner" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/unternehmen" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog//app/uploads/2024/03/20240214_Testen-von-KI_tlange.jpg" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/lifecycle-management-integration" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.instagram.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/tag/kuenstliche-intelligenz/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/unternehmen/referenzen" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/impressum" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F%20Testen%20von%20KI%3A%20Risikofaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "tel:+49 (0) 351 440080" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "javascript:linkTo_UnCryptMailto('tmxxaLbdaruoay:pq', -12)" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/webinare" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "http://ct.de/-2467514" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/tag/testen-von-ki" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere/darum-proficom" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "javascript:linkTo_UnCryptMailto('halloZproficom8de', -26)" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/datenschutz" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/agb" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/agile-coaching" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere/darum-proficom/leben-in-dresden" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.wired.com/story/chatgpt-poem-forever-security-roundup/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/test-automation" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/software-support" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/application-performance-management" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/tag/testen/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio/infrastructure-cloud-management" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere/it-traineeprogramm" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere/darum-proficom/benefits" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/testen-von-kuenstlicher-intelligenz/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/site-export" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/blog/category/portfolio/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/karriere" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Ftesten-von-ki-risikofaktoren%2F&subject=Testen%20von%20KI%3A%20Risikofaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-ki-risikofaktoren/" -> "https://www.proficom.de/portfolio" [  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/test-automation" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/test-automation", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/site-export" [ URL="?remoteUrl=https://www.proficom.de/site-export", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/application-performance-management/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/application-performance-management/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/datenschutz" [ URL="?remoteUrl=https://www.proficom.de/datenschutz", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/company/partners" [ URL="?remoteUrl=https://www.proficom.de/en/company/partners", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('yrccfQgifwztfd/uv', -17)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('yrccfQgifwztfd/uv', -17)", fillcolor="green", style="filled",  weight=0 ];
+
+	"mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F&subject=Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis" [ URL="?remoteUrl=mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F&subject=Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis", fillcolor="red", style="filled",  weight=0 ];
+
+	"https://www.istqb.org/certifications/artificial-inteligence-tester" [ URL="?remoteUrl=https://www.istqb.org/certifications/artificial-inteligence-tester", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/trainings" [ URL="?remoteUrl=https://www.proficom.de/portfolio/trainings", fillcolor="green", style="filled",  weight=0 ];
+
+	"mailto:mloetzsch@proficom.de" [ URL="?remoteUrl=mailto:mloetzsch@proficom.de", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/software-support" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/software-support", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F" [ URL="?remoteUrl=https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/suche" [ URL="?remoteUrl=https://www.proficom.de/suche", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/application-security" [ URL="?remoteUrl=https://www.proficom.de/portfolio/application-security", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/agb" [ URL="?remoteUrl=https://www.proficom.de/agb", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/lifecycle-management-integration" [ URL="?remoteUrl=https://www.proficom.de/portfolio/lifecycle-management-integration", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" [ URL="?remoteUrl=https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/application-security" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/unternehmen" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere/darum-proficom/leben-in-dresden" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://dragonflytest.com/selenium-3-vs-4/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/trainings" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/media-library" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/site-export" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/unternehmen/referenzen" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.linkedin.com/company/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/unternehmen/partner" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "tel:+49 (0) 351 440080" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/datenschutz" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/infrastructure-cloud-management" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/unternehmen/brand-kit" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "javascript:linkTo_UnCryptMailto('mfqqtEuwtknhtr3ij', -5)" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "http://ct.de/-2467514" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/suche" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere/darum-proficom" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog/category/portfolio/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/impressum" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "javascript:linkTo_UnCryptMailto('yrccfQgifwztfd/uv', -17)" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/agb" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/test-automation" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/webinare" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/erfolgsfaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.instagram.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/application-performance-management" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere/jobs" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog/tag/selenium/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.youtube.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/software-support" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F&title=Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/en/site-export" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/unternehmen/geschichte" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere/jobs/bewerbungs-faq" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog/author/728ed826/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-wie-gut-klappt-die-migration-zur-vorversion-und-was-sind-die-unterschiede/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/team/franz-nolasco" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/container" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F%20Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere/darum-proficom/benefits" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "mailto://www.proficom.de?body=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F&subject=Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/lifecycle-management-integration" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog/tag/test-automation/" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/portfolio/agile-coaching" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/blog//app/uploads/2024/01/202402_Selenium-Grid-3-auf-4_fnolasco_part2.jpg" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/unternehmen/team" [  weight=0 ];
+
+	"https://www.proficom.de/blog/architekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis/" -> "https://www.proficom.de/karriere/it-traineeprogramm" [  weight=0 ];
+
+	"https://www.proficom.de/unternehmen/referenzen" [ URL="?remoteUrl=https://www.proficom.de/unternehmen/referenzen", fillcolor="green", style="filled",  weight=0 ];
+
+	"javascript:linkTo_UnCryptMailto('tmxxaLbdaruoay:pq', -12)" [ URL="?remoteUrl=javascript:linkTo_UnCryptMailto('tmxxaLbdaruoay:pq', -12)", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F&title=Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis" [ URL="?remoteUrl=https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F&title=Architekturwechsel%20mit%20Selenium%20Grid%204%20%E2%80%93%20Anwendung%20in%20der%20Praxis", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere/jobs" [ URL="?remoteUrl=https://www.proficom.de/karriere/jobs", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog//app/uploads/2024/03/20240214_Testen-von-KI_tlange.jpg" [ URL="?remoteUrl=https://www.proficom.de/blog//app/uploads/2024/03/20240214_Testen-von-KI_tlange.jpg", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/unternehmen/brand-kit" [ URL="?remoteUrl=https://www.proficom.de/unternehmen/brand-kit", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud/was-ist-die-cloud" [ URL="?remoteUrl=https://www.proficom.de/portfolio/public-cloud/was-ist-die-cloud", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F&title=Wir%20sind%20offizieller%20dynatrace-Partner%21" [ URL="?remoteUrl=https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F&title=Wir%20sind%20offizieller%20dynatrace-Partner%21", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere" [ URL="?remoteUrl=https://www.proficom.de/karriere", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/software-support" [ URL="?remoteUrl=https://www.proficom.de/portfolio/software-support", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" [ URL="?remoteUrl=https://www.proficom.de/portfolio/public-cloud", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere/darum-proficom" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/agb" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere/jobs" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/trainings/angebot/ansible-basics-1-1" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/public-cloud/was-ist-die-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.linkedin.com/company/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/application-security" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/webinare" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/test-automation" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.instagram.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/public-cloud/weg-in-die-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/unternehmen/geschichte" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/blog/patch-management-the-easy-way/" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/trainings/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/suche" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/unternehmen/team" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/agile-coaching" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/public-cloud/cloud-security" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "mailto:mloetzsch@proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere/it-traineeprogramm" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/unternehmen/referenzen" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "javascript:linkTo_UnCryptMailto('gzkknYoqnehbnl7cd', -25)" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/lifecycle-management-integration" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/blog" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/infrastructure-cloud-management" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/application-performance-management" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/public-cloud/anfrage-public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "tel:+49 (0) 351 440080" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/trainings" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/datenschutz" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/unternehmen/partner" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/container" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/unternehmen/brand-kit" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/media-library" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/erfolgsfaktoren" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.youtube.com/proficomde" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/blog/automatisierung-und-application-monitoring-wir-waren-beim-accompio-it-expert-day/" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.xing.com/profile/Michael_Loetzsch2/cv" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/team/michael-loetzsch" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "javascript:linkTo_UnCryptMailto('exiilWmolcfzlj5ab', -23)" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere/darum-proficom/leben-in-dresden" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.linkedin.com/in/michael-l%C3%B6tzsch-a382a0149/" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/impressum" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/blog/so-entsteht-eine-proficom-webinarserie/" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere/darum-proficom/benefits" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/public-cloud/cloud-automation" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.youtube.com/playlist?list=PL_ZP-jQT8APBm7N_QwIIb-oxa7HrVzEX0" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/portfolio/software-support" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/unternehmen" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/karriere/jobs/bewerbungs-faq" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud" -> "https://www.proficom.de/en/portfolio/public-cloud" [  weight=0 ];
+
+	"https://www.proficom.de/portfolio/webinare" [ URL="?remoteUrl=https://www.proficom.de/portfolio/webinare", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio" [ URL="?remoteUrl=https://www.proficom.de/portfolio", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F" [ URL="?remoteUrl=https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F" [ URL="?remoteUrl=https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.proficom.de%2Fblog%2Farchitekturwechsel-mit-selenium-grid-4-anwendung-in-der-praxis%2F", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/media-library" [ URL="?remoteUrl=https://www.proficom.de/portfolio/media-library", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/erfolgsfaktoren" [ URL="?remoteUrl=https://www.proficom.de/portfolio/erfolgsfaktoren", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere/darum-proficom/leben-in-dresden" [ URL="?remoteUrl=https://www.proficom.de/karriere/darum-proficom/leben-in-dresden", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/test-automation/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/test-automation/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/testen-von-ki/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/testen-von-ki/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/application-security" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/application-security", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/public-cloud" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/public-cloud", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/imprint" [ URL="?remoteUrl=https://www.proficom.de/en/imprint", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/tag/selenium/" [ URL="?remoteUrl=https://www.proficom.de/blog/tag/selenium/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/karriere/it-traineeprogramm" [ URL="?remoteUrl=https://www.proficom.de/karriere/it-traineeprogramm", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/agile-coaching" [ URL="?remoteUrl=https://www.proficom.de/portfolio/agile-coaching", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/author/728ed826/" [ URL="?remoteUrl=https://www.proficom.de/blog/author/728ed826/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/testen-von-kuenstlicher-intelligenz/" [ URL="?remoteUrl=https://www.proficom.de/blog/testen-von-kuenstlicher-intelligenz/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://dragonflytest.com/selenium-3-vs-4/" [ URL="?remoteUrl=https://dragonflytest.com/selenium-3-vs-4/", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/en/portfolio/infrastructure-cloud-management" [ URL="?remoteUrl=https://www.proficom.de/en/portfolio/infrastructure-cloud-management", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/public-cloud/anfrage-public-cloud" [ URL="?remoteUrl=https://www.proficom.de/portfolio/public-cloud/anfrage-public-cloud", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/team/michael-loetzsch" [ URL="?remoteUrl=https://www.proficom.de/team/michael-loetzsch", fillcolor="green", style="filled",  weight=0 ];
+
+	"http://ct.de/-2467514" [ URL="?remoteUrl=http://ct.de/-2467514", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F" [ URL="?remoteUrl=https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.proficom.de%2Fblog%2Fwir-sind-offiziell-dynatrace-partner%2F", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/portfolio/infrastructure-cloud-management" [ URL="?remoteUrl=https://www.proficom.de/portfolio/infrastructure-cloud-management", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/unternehmen" [ URL="?remoteUrl=https://www.proficom.de/unternehmen", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.youtube.com/playlist?list=PL_ZP-jQT8APBm7N_QwIIb-oxa7HrVzEX0" [ URL="?remoteUrl=https://www.youtube.com/playlist?list=PL_ZP-jQT8APBm7N_QwIIb-oxa7HrVzEX0", fillcolor="green", style="filled",  weight=0 ];
+
+	"https://www.proficom.de/blog/patch-management-the-easy-way/" [ URL="?remoteUrl=https://www.proficom.de/blog/patch-management-the-easy-way/", fillcolor="green", style="filled",  weight=0 ];
+
+}
